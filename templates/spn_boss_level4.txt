@@ -1,0 +1,41 @@
+[
+{
+'obj_type': 'EntitySpawner',
+'obj_name': 'triangle_boss.spn',
+'xfm_name': '',
+'constraint': 'kConstraintParent',
+'pos': (0, 0, 0),
+'rot_x': (1, 0, 0),
+'rot_y': (0, 1, 0),
+'rot_z': (0, 0, 1),
+'scale': (1, 1, 1),
+'objlib_path': 'boss/gate_triangle/triangle_boss.objlib',
+'bucket': 'kBucketEffect'
+},
+{
+'obj_type': 'EntitySpawner',
+'obj_name': 'zillapede.spn',
+'xfm_name': '',
+'constraint': 'kConstraintParent',
+'pos': (0, 0, 0),
+'rot_x': (1, 0, 0),
+'rot_y': (0, 1, 0),
+'rot_z': (0, 0, 1),
+'scale': (1, 1, 1),
+'objlib_path': 'boss/gate_diamond/zillapede_boss2.objlib',
+'bucket': 'kBucketEffect'
+},
+{
+'obj_type': 'EntitySpawner',
+'obj_name': 'crakhed4.spn',
+'xfm_name': '',
+'constraint': 'kConstraintParent',
+'pos': (0, 0, 0),
+'rot_x': (1, 0, 0),
+'rot_y': (0, 1, 0),
+'rot_z': (0, 0, 1),
+'scale': (1, 1, 1),
+'objlib_path': 'boss/gate_crakhed4.objlib',
+'bucket': 'kBucketEffect'
+}
+]

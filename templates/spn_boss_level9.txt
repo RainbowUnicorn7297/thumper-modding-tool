@@ -1,0 +1,54 @@
+[
+{
+'obj_type': 'EntitySpawner',
+'obj_name': 'gate_frac.spn',
+'xfm_name': '',
+'constraint': 'kConstraintParent',
+'pos': (0, 0, 0),
+'rot_x': (1, 0, 0),
+'rot_y': (0, 1, 0),
+'rot_z': (0, 0, 1),
+'scale': (1, 1, 1),
+'objlib_path': 'boss/boss_frac/gate_frac.objlib',
+'bucket': 'kBucketEffect'
+},
+{
+'obj_type': 'EntitySpawner',
+'obj_name': 'crakhed7.spn',
+'xfm_name': '',
+'constraint': 'kConstraintParent',
+'pos': (0, 0, 0),
+'rot_x': (1, 0, 0),
+'rot_y': (0, 1, 0),
+'rot_z': (0, 0, 1),
+'scale': (1, 1, 1),
+'objlib_path': 'boss/gate_crakhed7.objlib',
+'bucket': 'kBucketEffect'
+},
+{
+'obj_type': 'EntitySpawner',
+'obj_name': 'gate_pyramid.spn',
+'xfm_name': '',
+'constraint': 'kConstraintParent',
+'pos': (0, 0, 0),
+'rot_x': (1, 0, 0),
+'rot_y': (0, 1, 0),
+'rot_z': (0, 0, 1),
+'scale': (1, 1, 1),
+'objlib_path': 'boss/gate_pyramid.objlib',
+'bucket': 'kBucketEffect'
+},
+{
+'obj_type': 'EntitySpawner',
+'obj_name': 'ending_sequence.spn',
+'xfm_name': '',
+'constraint': 'kConstraintParent',
+'pos': (0, 0, 0),
+'rot_x': (1, 0, 0),
+'rot_y': (0, 1, 0),
+'rot_z': (0, 0, 1),
+'scale': (1, 1, 1),
+'objlib_path': 'boss/ending_sequence.objlib',
+'bucket': 'kBucketEffect'
+}
+]

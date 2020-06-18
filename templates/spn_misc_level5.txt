@@ -1,0 +1,41 @@
+[
+{
+'obj_type': 'EntitySpawner',
+'obj_name': 'baby_zillas.spn',
+'xfm_name': '',
+'constraint': 'kConstraintParent',
+'pos': (0, 0, 0),
+'rot_x': (1, 0, 0),
+'rot_y': (0, 1, 0),
+'rot_z': (0, 0, 1),
+'scale': (1, 1, 1),
+'objlib_path': 'decorators/decorative/millipede_half_decorative.objlib',
+'bucket': 'kBucketEffect'
+},
+{
+'obj_type': 'EntitySpawner',
+'obj_name': 'millipede_decorative.spn',
+'xfm_name': '',
+'constraint': 'kConstraintParent',
+'pos': (0, 0, 0),
+'rot_x': (1, 0, 0),
+'rot_y': (0, 1, 0),
+'rot_z': (0, 0, 1),
+'scale': (1, 1, 1),
+'objlib_path': 'entity/millipede_decorative.objlib',
+'bucket': 'kBucketEffect'
+},
+{
+'obj_type': 'EntitySpawner',
+'obj_name': 'spiral_tunnel.spn',
+'xfm_name': '',
+'constraint': 'kConstraintParent',
+'pos': (0, 0, 0),
+'rot_x': (1, 0, 0),
+'rot_y': (0, 1, 0),
+'rot_z': (0, 0, 1),
+'scale': (1, 1, 1),
+'objlib_path': 'boss/boss_spiral/spiral_entity_sets.objlib',
+'bucket': 'kBucketEffect'
+}
+]

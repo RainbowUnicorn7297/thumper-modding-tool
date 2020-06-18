@@ -1,0 +1,19 @@
+[
+{
+'obj_type': 'SequinLeaf',
+'obj_name': 'spacer_16.leaf',
+'seq_objs': [
+    {
+    'obj_name': 'spacer_16.leaf',
+    'param_path': 'pitch',
+    'trait_type': 'kTraitFloat',
+    'data_points': {
+        },
+    'step': True,
+    'default': 1.40625,
+    'footer': (4,1,2,1,2,'kIntensityScale','kIntensityScale',1,0,1,1,1,1,1,1,0,0,0)
+    }
+    ],
+'beat_cnt': 16
+}
+]

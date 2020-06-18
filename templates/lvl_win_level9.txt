@@ -1,0 +1,102 @@
+[
+{
+'obj_type': 'SequinLevel',
+'obj_name': 'win.lvl',
+'approach_beats': 18,
+'seq_objs': [
+    {
+    'obj_name': 'win.lvl',
+    'param_path': 'layer_volume,0',
+    'trait_type': 'kTraitFloat',
+    'data_points': {
+        18:0, 18.1:1, 72:1, 72.1:0
+        },
+    'step': False,
+    'default': 0,
+    'footer': (1,1,2,1,2,'kIntensityScale','kIntensityScale',1,1,1,1,1,1,1,1,0,0,0)
+    },
+    {
+    'obj_name': 'win.lvl',
+    'param_path': 'layer_volume,1',
+    'trait_type': 'kTraitFloat',
+    'data_points': {
+        18:0, 18.1:0.5, 72:0.5, 72.1:0
+        },
+    'step': False,
+    'default': 0,
+    'footer': (1,1,2,1,2,'kIntensityScale','kIntensityScale',1,1,1,1,1,1,1,1,0,0,0)
+    },
+    {
+    'obj_name': 'screen_shake_crakhed_intro.flow',
+    'param_path_hash': '2b929184',
+    'trait_type': 'kTraitAction',
+    'data_points': {
+        18:1
+        },
+    'step': False,
+    'default': 0,
+    'footer': (1,2,2,1,2,'kIntensityScale','kIntensityScale',1,1,1,1,1,1,1,1,0,0,0)
+    },
+    {
+    'obj_name': 'enter_teeth.samp',
+    'param_path': 'play',
+    'trait_type': 'kTraitAction',
+    'data_points': {
+        38.1:1
+        },
+    'step': False,
+    'default': 0,
+    'footer': (1,2,2,1,2,'kIntensityScale','kIntensityScale',1,1,1,1,1,1,1,1,0,0,0)
+    },
+    {
+    'obj_name': 'crakhed_final_roar.samp',
+    'param_path': 'play',
+    'trait_type': 'kTraitAction',
+    'data_points': {
+        30.1:1
+        },
+    'step': False,
+    'default': 0,
+    'footer': (1,2,2,1,2,'kIntensityScale','kIntensityScale',1,1,1,1,1,1,1,1,0,0,0)
+    },
+    {
+    'obj_name': 'screen_shake_crakhed_intro.flow',
+    'param_path_hash': '91d1a564',
+    'trait_type': 'kTraitAction',
+    'data_points': {
+        2:1, 18:1, 34:1
+        },
+    'step': False,
+    'default': 0,
+    'footer': (1,2,2,1,2,'kIntensityScale','kIntensityScale',1,1,1,1,1,1,1,1,0,0,0)
+    }
+    ],
+'leaf_seq': [
+    {
+    'beat_cnt': 54,
+    'leaf_name': 'win_level9.leaf',
+    'main_path': 'default.path',
+    'sub_paths': [],
+    'pos': (0, 0, 0),
+    'rot_x': (1, 0, 0),
+    'rot_y': (0, 1, 0),
+    'rot_z': (0, 0, 1),
+    'scale': (1, 1, 1)
+    }
+    ],
+'loops': [
+    {
+    'samp_name': 'crakhed_pattern5.samp',
+    'beats_per_loop': 18
+    },
+    {
+    'samp_name': 'crakhed_drone_pattern4.samp',
+    'beats_per_loop': 9
+    }
+    ],
+'volume': 0.5,
+'input_allowed': True,
+'tutorial_type': 'TUTORIAL_NONE',
+'start_angle_fracs': (1, 1, 1)
+}
+]

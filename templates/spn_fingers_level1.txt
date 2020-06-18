@@ -1,0 +1,67 @@
+[
+{
+'obj_type': 'EntitySpawner',
+'obj_name': 'decorative_rails.spn',
+'xfm_name': '',
+'constraint': 'kConstraintParent',
+'pos': (0, 0, 0),
+'rot_x': (1, 0, 0),
+'rot_y': (0, 1, 0),
+'rot_z': (0, 0, 1),
+'scale': (1, 1, 1),
+'objlib_path': 'entity/decorative_rails.objlib',
+'bucket': 'kBucketEffect'
+},
+{
+'obj_type': 'EntitySpawner',
+'obj_name': 'boss_fingers.spn',
+'xfm_name': '',
+'constraint': 'kConstraintParent',
+'pos': (0, 0, 0),
+'rot_x': (1, 0, 0),
+'rot_y': (0, 1, 0),
+'rot_z': (0, 0, 1),
+'scale': (1, 1, 1),
+'objlib_path': 'boss/boss_fingers/boss_8_fingers_set.objlib',
+'bucket': 'kBucketEffect'
+},
+{
+'obj_type': 'EntitySpawner',
+'obj_name': 'trees.spn',
+'xfm_name': '',
+'constraint': 'kConstraintParent',
+'pos': (0, 0, 0),
+'rot_x': (1, 0, 0),
+'rot_y': (0, 1, 0),
+'rot_z': (0, 0, 1),
+'scale': (1, 1, 1),
+'objlib_path': 'decorators/level_fingers/level_tree4_set.objlib',
+'bucket': 'kBucketEffect'
+},
+{
+'obj_type': 'EntitySpawner',
+'obj_name': 'demo_fingers.spn',
+'xfm_name': '',
+'constraint': 'kConstraintParent',
+'pos': (0, 0, 0),
+'rot_x': (1, 0, 0),
+'rot_y': (0, 1, 0),
+'rot_z': (0, 0, 1),
+'scale': (1, 1, 1),
+'objlib_path': 'decorators/level_fingers/demo_fingers_set.objlib',
+'bucket': 'kBucketEffect'
+},
+{
+'obj_type': 'EntitySpawner',
+'obj_name': 'crakhed_fingers.spn',
+'xfm_name': '',
+'constraint': 'kConstraintParent',
+'pos': (0, 0, 0),
+'rot_x': (1, 0, 0),
+'rot_y': (0, 1, 0),
+'rot_z': (0, 0, 1),
+'scale': (1, 1, 1),
+'objlib_path': 'boss/crakhed_fingers/crakhed_demo_fingers_set.objlib',
+'bucket': 'kBucketEffect'
+}
+]

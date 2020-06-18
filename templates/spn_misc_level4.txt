@@ -1,0 +1,15 @@
+[
+{
+'obj_type': 'EntitySpawner',
+'obj_name': 'millipede_decorative.spn',
+'xfm_name': '',
+'constraint': 'kConstraintParent',
+'pos': (0, 0, 0),
+'rot_x': (1, 0, 0),
+'rot_y': (0, 1, 0),
+'rot_z': (0, 0, 1),
+'scale': (1, 1, 1),
+'objlib_path': 'entity/millipede_decorative.objlib',
+'bucket': 'kBucketEffect'
+}
+]
