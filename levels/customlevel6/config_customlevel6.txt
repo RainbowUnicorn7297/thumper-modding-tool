@@ -1,0 +1,17 @@
+[
+{
+'obj_type': 'LevelLib',
+'level_name': 'customlevel6',
+'objlib_path': 'levels/custom/level6.objlib',
+'cache_filename': '10700608.pc',
+'config_cache_filename': '14f2baa5.pc',
+'bpm': 320,
+'level_sections': [
+    'SECTION_LINEAR'
+    ],
+'rails_color': (1, 0, 1, 1),
+'rails_glow_color': (1, 0, 0, 1),
+'path_color': (0, 0, 1, 1),
+'joy_color': (1, 0, 1, 1)
+}
+]

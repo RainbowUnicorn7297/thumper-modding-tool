@@ -1,0 +1,17 @@
+[
+{
+'obj_type': 'LevelLib',
+'level_name': 'customlevel5',
+'objlib_path': 'levels/custom/level5.objlib',
+'cache_filename': 'ca760d3f.pc',
+'config_cache_filename': '4f9698fc.pc',
+'bpm': 320,
+'level_sections': [
+    'SECTION_LINEAR'
+    ],
+'rails_color': (1, 1, 0, 1),
+'rails_glow_color': (1, 0, 0, 1),
+'path_color': (0, 1, 0, 1),
+'joy_color': (1, 1, 0, 1)
+}
+]

@@ -1,0 +1,17 @@
+[
+{
+'obj_type': 'LevelLib',
+'level_name': 'customlevel3',
+'objlib_path': 'levels/custom/level3.objlib',
+'cache_filename': 'feac0d77.pc',
+'config_cache_filename': 'a9045489.pc',
+'bpm': 320,
+'level_sections': [
+    'SECTION_LINEAR'
+    ],
+'rails_color': (0.6, 0.6, 0.6, 1),
+'rails_glow_color': (0.4, 0.4, 0.4, 1),
+'path_color': (0.4, 0.4, 0.4, 1),
+'joy_color': (0.6, 0.6, 0.6, 1)
+}
+]
