@@ -5,7 +5,7 @@ A text-based editor for adding custom levels to Thumper.
 Download the [latest release](https://github.com/RainbowUnicorn7297/thumper-modding-tool/releases) and unzip to any folder.
 
 ## Getting Started
-* Run "Thumper Modding Tool.exe" and select Thumper folder for first time setup.
+* Run "Thumper Modding Tool.exe" and select where the Thumper folder is located for first time setup.
 * Click Turn ON Mod Mode button to backup your save data and replace all original levels with custom levels.
 * Click Turn OFF Mod Mode button to restore the original levels and your save data.
 * To edit the custom levels, open and edit the .txt files under the levels folder. Click Update Custom Levels button to commit any edits you have made.
