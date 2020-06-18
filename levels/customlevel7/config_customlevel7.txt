@@ -1,0 +1,17 @@
+[
+{
+'obj_type': 'LevelLib',
+'level_name': 'customlevel7',
+'objlib_path': 'levels/custom/level7.objlib',
+'cache_filename': '4c3c80cf.pc',
+'config_cache_filename': '7b0b72e8.pc',
+'bpm': 320,
+'level_sections': [
+    'SECTION_LINEAR'
+    ],
+'rails_color': (0, 1, 1, 1),
+'rails_glow_color': (0, 1, 0, 1),
+'path_color': (0, 0, 1, 1),
+'joy_color': (0, 1, 1, 1)
+}
+]

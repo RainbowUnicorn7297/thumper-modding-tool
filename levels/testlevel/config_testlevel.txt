@@ -1,0 +1,17 @@
+[
+{
+'obj_type': 'LevelLib',
+'level_name': 'testlevel',
+'objlib_path': 'levels/custom/test.objlib',
+'cache_filename': '25d1009d.pc',
+'config_cache_filename': 'c19c877c.pc',
+'bpm': 320,
+'level_sections': [
+    'SECTION_LINEAR'
+    ],
+'rails_color': (0, 0, 0, 1),
+'rails_glow_color': (0, 0, 0, 1),
+'path_color': (0, 0, 0, 1),
+'joy_color': (0, 0, 0, 1)
+}
+]

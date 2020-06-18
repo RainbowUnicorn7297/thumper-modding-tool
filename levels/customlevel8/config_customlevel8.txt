@@ -1,0 +1,17 @@
+[
+{
+'obj_type': 'LevelLib',
+'level_name': 'customlevel8',
+'objlib_path': 'levels/custom/level8.objlib',
+'cache_filename': '7394d1b7.pc',
+'config_cache_filename': 'f9ac5eb5.pc',
+'bpm': 320,
+'level_sections': [
+    'SECTION_LINEAR'
+    ],
+'rails_color': (1, 1, 1, 1),
+'rails_glow_color': (1, 1, 1, 1),
+'path_color': (1, 1, 1, 1),
+'joy_color': (1, 1, 1, 1)
+}
+]
