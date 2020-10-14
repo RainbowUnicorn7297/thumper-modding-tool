@@ -225,12 +225,12 @@ def write_gate_comp(f, obj):
     write_string(f, obj['spn_name'])
     write_param_path(f, obj.get('param_path'), obj.get('param_path_hash'))
     
-    write_int(len(obj['boss_patterns']))
+    write_int(f, len(obj['boss_patterns']))
     for boss_pattern in obj['boss_patterns']:
         if 'node_name' in boss_pattern:
             write_hash(f, boss_pattern['node_name'])
         else:
-            write_hex(f, boss_pattern['node_name_hash'])
+            write_hex_reverse(f, boss_pattern['node_name_hash'])
         write_string(f, boss_pattern['lvl_name'])
         write_bool(f, True)
         write_string(f, boss_pattern['sentry_type'])
